@@ -1,0 +1,294 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Panchang by AstroTathya 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/panchang-by-astrotathya\n"
+"Last-Translator: AstroTathya\n"
+"Language-Team: Hindi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-10-18T22:01:02+00:00\n"
+"PO-Revision-Date: 2026-10-23 02:30+0530\n"
+"Language: hi_IN\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: panchang-by-astrotathya\n"
+"X-Generator: WP-CLI 2.12.0\n"
+
+#. Author of the plugin
+#: panchang-by-astrotathya.php
+msgid "AstroTathya"
+msgstr "AstroTathya"
+
+#. Author URI of the plugin
+#: panchang-by-astrotathya.php
+msgid "https://astrotathya.com"
+msgstr "https://astrotathya.com"
+
+#: includes/class-astrotathya-panchang-settings.php:99
+msgid "Panchang"
+msgstr "पंचांग"
+
+#: includes/class-astrotathya-panchang-settings.php:114
+msgid "Settings"
+msgstr "सेटिंग्स"
+
+#: includes/class-astrotathya-panchang-settings.php:132
+msgid "Defaults"
+msgstr "डिफ़ॉल्ट"
+
+#: includes/class-astrotathya-panchang-settings.php:138
+#: includes/class-astrotathya-panchang-widget.php:79
+#: blocks/panchang/index.js:100
+msgid "City"
+msgstr "शहर"
+
+#: includes/class-astrotathya-panchang-settings.php:140
+#: includes/class-astrotathya-panchang-widget.php:81
+#: blocks/panchang/index.js:116
+msgid "Show"
+msgstr "क्या दिखाएं"
+
+#: includes/class-astrotathya-panchang-settings.php:142
+#: includes/class-astrotathya-panchang-widget.php:84
+#: blocks/panchang/index.js:119
+msgid "Today's panchang"
+msgstr "आज का पंचांग"
+
+#: includes/class-astrotathya-panchang-settings.php:143
+#: includes/class-astrotathya-panchang-widget.php:85
+#: blocks/panchang/index.js:120
+msgid "Upcoming festivals"
+msgstr "आने वाले त्योहार"
+
+#: includes/class-astrotathya-panchang-settings.php:147
+#: includes/class-astrotathya-panchang-widget.php:89
+#: blocks/panchang/index.js:126
+msgid "Language"
+msgstr "भाषा"
+
+#: includes/class-astrotathya-panchang-settings.php:149
+msgid "Same as the site"
+msgstr "साइट की भाषा"
+
+#: includes/class-astrotathya-panchang-settings.php:150
+#: includes/class-astrotathya-panchang-widget.php:92
+#: blocks/panchang/index.js:129
+msgid "English"
+msgstr "अंग्रेज़ी"
+
+#: includes/class-astrotathya-panchang-settings.php:151
+#: includes/class-astrotathya-panchang-widget.php:93
+#: blocks/panchang/index.js:130
+msgid "Hindi"
+msgstr "हिंदी"
+
+#: includes/class-astrotathya-panchang-settings.php:155
+#: includes/class-astrotathya-panchang-widget.php:97
+#: blocks/panchang/index.js:136
+msgid "Theme"
+msgstr "थीम"
+
+#: includes/class-astrotathya-panchang-settings.php:157
+#: includes/class-astrotathya-panchang-widget.php:100
+#: blocks/panchang/index.js:139
+msgid "Light"
+msgstr "हल्की"
+
+#: includes/class-astrotathya-panchang-settings.php:158
+#: includes/class-astrotathya-panchang-widget.php:101
+#: blocks/panchang/index.js:140
+msgid "Dark"
+msgstr "गहरी"
+
+#: includes/class-astrotathya-panchang-settings.php:159
+#: includes/class-astrotathya-panchang-widget.php:102
+#: blocks/panchang/index.js:141
+msgid "Maroon"
+msgstr "मैरून"
+
+#: includes/class-astrotathya-panchang-settings.php:163
+#: includes/class-astrotathya-panchang-widget.php:106
+#: blocks/panchang/index.js:147
+msgid "Size"
+msgstr "आकार"
+
+#: includes/class-astrotathya-panchang-settings.php:165
+#: includes/class-astrotathya-panchang-widget.php:109
+#: blocks/panchang/index.js:150
+msgid "Card"
+msgstr "कार्ड"
+
+#: includes/class-astrotathya-panchang-settings.php:166
+#: includes/class-astrotathya-panchang-widget.php:110
+#: blocks/panchang/index.js:151
+msgid "Banner"
+msgstr "बैनर"
+
+#: includes/class-astrotathya-panchang-settings.php:170
+msgid "Embed method"
+msgstr "जोड़ने का तरीका"
+
+#: includes/class-astrotathya-panchang-settings.php:173
+msgid "Script (adapts its height; runs JavaScript from astrotathya.com on your pages)"
+msgstr "स्क्रिप्ट (ऊँचाई अपने-आप; astrotathya.com की JavaScript आपके पेजों पर चलती है)"
+
+#: includes/class-astrotathya-panchang-settings.php:172
+msgid "Iframe (recommended: kept separate from your site)"
+msgstr "iframe (सुझाया गया: आपकी साइट से अलग रहता है)"
+
+#: includes/class-astrotathya-panchang-settings.php:204
+msgid "Credit link"
+msgstr "श्रेय लिंक"
+
+#: includes/class-astrotathya-panchang-settings.php:285
+msgid "Show a small \"panchang by AstroTathya\" text link under each widget (off by default)."
+msgstr "हर विजेट के नीचे छोटा \"AstroTathya पंचांग\" टेक्स्ट लिंक दिखाएं (डिफ़ॉल्ट रूप से बंद)।"
+
+#: includes/class-astrotathya-panchang-widget.php:23
+msgid "Today's panchang or upcoming festivals for a city."
+msgstr "किसी शहर का आज का पंचांग या आने वाले त्योहार।"
+
+#: includes/class-astrotathya-panchang-widget.php:71
+#: blocks/panchang/index.js:28
+msgid "Site default"
+msgstr "साइट डिफ़ॉल्ट"
+
+#: includes/class-astrotathya-panchang-widget.php:122
+msgid "Title:"
+msgstr "शीर्षक:"
+
+#: blocks/panchang/index.js:98
+msgid "Widget"
+msgstr "विजेट"
+
+#: blocks/panchang/index.js:107
+msgid "Or type a city slug"
+msgstr "या शहर का slug लिखें"
+
+#: blocks/panchang/index.js:108
+msgid "As in astrotathya.com/panchang/your-city"
+msgstr "जैसे astrotathya.com/panchang/your-city"
+
+#: includes/class-astrotathya-panchang-settings.php:372
+#: blocks/panchang/index.js:74
+msgid "Panchang preview"
+msgstr "पंचांग पूर्वावलोकन"
+
+#: blocks/panchang/block.json
+msgctxt "block title"
+msgid "Panchang by AstroTathya"
+msgstr "पंचांग - AstroTathya"
+
+#: blocks/panchang/block.json
+msgctxt "block description"
+msgid "Today's panchang or upcoming Hindu festivals for a city, with local times, in Hindi or English."
+msgstr "किसी शहर का आज का पंचांग या आने वाले हिंदू त्योहार, स्थानीय समय के साथ, हिंदी या अंग्रेज़ी में।"
+
+#: blocks/panchang/block.json
+msgctxt "block keyword"
+msgid "panchang"
+msgstr "पंचांग"
+
+#: blocks/panchang/block.json
+msgctxt "block keyword"
+msgid "tithi"
+msgstr "तिथि"
+
+#: blocks/panchang/block.json
+msgctxt "block keyword"
+msgid "festival"
+msgstr "त्योहार"
+
+#: blocks/panchang/block.json
+msgctxt "block keyword"
+msgid "hindu calendar"
+msgstr "हिंदू कैलेंडर"
+
+#: blocks/panchang/block.json
+msgctxt "block keyword"
+msgid "muhurat"
+msgstr "मुहूर्त"
+
+#: includes/class-astrotathya-panchang-settings.php:357
+msgid "Choose how the panchang looks by default. Any block, widget or shortcode can still change these for itself."
+msgstr "पंचांग डिफ़ॉल्ट रूप से कैसा दिखे, यह चुनिए। हर ब्लॉक, विजेट या शॉर्टकोड इन्हें अपने लिए बदल सकता है।"
+
+#: includes/class-astrotathya-panchang-settings.php:365
+msgid "Adding it to a page"
+msgstr "पेज पर कैसे लगाएँ"
+
+#: includes/class-astrotathya-panchang-settings.php:366
+msgid "In the block editor, search for \"Panchang\". Under Appearance > Widgets, add the Panchang widget. Anywhere else, paste the shortcode shown beside the preview."
+msgstr "ब्लॉक एडिटर में \"Panchang\" खोजिए। Appearance > Widgets में Panchang विजेट जोड़िए। बाकी जगह, प्रीव्यू के पास दिखाया गया शॉर्टकोड चिपकाइए।"
+
+#: includes/class-astrotathya-panchang-settings.php:367
+msgid "Shortcode values: type is panchang or festivals; lang is en, hi or auto; theme is light, dark or maroon; size is card or banner. Leave one out to use the default above."
+msgstr "शॉर्टकोड के मान: type में panchang या festivals; lang में en, hi या auto; theme में light, dark या maroon; size में card या banner। जो मान न लिखें, उसके लिए ऊपर वाला डिफ़ॉल्ट लगेगा।"
+
+#: includes/class-astrotathya-panchang-settings.php:370
+msgid "Preview"
+msgstr "प्रीव्यू"
+
+#: includes/class-astrotathya-panchang-settings.php:374
+msgid "Today, live from astrotathya.com. Changes show here before you save."
+msgstr "आज का पंचांग, सीधे astrotathya.com से। बदलाव सेव करने से पहले ही यहाँ दिख जाते हैं।"
+
+#. Plugin Name of the plugin
+#: panchang-by-astrotathya.php
+#: includes/class-astrotathya-panchang-settings.php:98
+#: includes/class-astrotathya-panchang-widget.php:21
+msgid "Panchang by AstroTathya"
+msgstr "AstroTathya पंचांग"
+
+#. Description of the plugin
+#: panchang-by-astrotathya.php
+msgid "Daily Hindu panchang for any city: tithi, nakshatra, Rahu Kaal, festivals and vrats, in Hindi or English. Needs a free site key."
+msgstr "किसी भी शहर का दैनिक हिंदू पंचांग: तिथि, नक्षत्र, राहु काल, पर्व और व्रत, हिंदी या अंग्रेज़ी में। मुफ़्त साइट कुंजी के साथ।"
+
+#: includes/class-astrotathya-panchang-render.php:155
+msgid "Add your site key."
+msgstr "अपनी साइट कुंजी डालिए।"
+
+#: includes/class-astrotathya-panchang-render.php:156
+msgid "The panchang widget needs a free site key for this site. Get one at astrotathya.com/panchang-widget and enter it in Settings > Panchang. Visitors see nothing here until then; only site administrators see this note."
+msgstr "पंचांग विजेट के लिए इस साइट की मुफ़्त साइट कुंजी चाहिए। astrotathya.com/panchang-widget से लेकर सेटिंग्स > पंचांग में डालें। तब तक आगंतुकों को यहाँ कुछ नहीं दिखेगा; यह सूचना केवल साइट एडमिन को दिखती है।"
+
+#: includes/class-astrotathya-panchang-render.php:158
+msgid "Settings > Panchang"
+msgstr "सेटिंग्स > पंचांग"
+
+#: includes/class-astrotathya-panchang-settings.php:85
+msgid "Panchang by AstroTathya: add your site key."
+msgstr "AstroTathya पंचांग: अपनी साइट कुंजी डालिए।"
+
+#: includes/class-astrotathya-panchang-settings.php:86
+msgid "The widget needs a free site key for this site, from astrotathya.com/panchang-widget. Until one is entered, the block, widget and shortcode show nothing to visitors."
+msgstr "विजेट के लिए इस साइट की मुफ़्त साइट कुंजी चाहिए, astrotathya.com/panchang-widget से। जब तक कुंजी नहीं डाली जाती, ब्लॉक, विजेट और शॉर्टकोड आगंतुकों को कुछ नहीं दिखाते।"
+
+#: includes/class-astrotathya-panchang-settings.php:89
+msgid "Enter the key"
+msgstr "कुंजी डालिए"
+
+#: includes/class-astrotathya-panchang-settings.php:195
+msgid "Site key"
+msgstr "साइट कुंजी"
+
+#: includes/class-astrotathya-panchang-settings.php:258
+msgid "The key for this site. Get one free at astrotathya.com/panchang-widget: sign in, add the verification line it gives you to this site (a post or page is fine), and paste the key here. A key covers this site's address and the cities chosen for it. Until one is entered, visitors see nothing where a widget is placed."
+msgstr "इस साइट की कुंजी। astrotathya.com/panchang-widget से मुफ़्त लें: साइन इन करें, वहाँ दी गई पुष्टि वाली पंक्ति इस साइट पर जोड़ें (किसी पोस्ट या पेज में भी चलेगा), और कुंजी यहाँ डालें। कुंजी इसी साइट के पते और उसके लिए चुने गए शहरों पर चलती है। कुंजी डालने तक, जहाँ विजेट लगा है वहाँ आगंतुकों को कुछ नहीं दिखेगा।"
+
+#: includes/class-astrotathya-panchang-widget.php:117
+msgid "Add your site key in Settings > Panchang. Until then this widget shows nothing to visitors."
+msgstr "सेटिंग्स > पंचांग में अपनी साइट कुंजी डालिए। तब तक यह विजेट आगंतुकों को कुछ नहीं दिखाएगा।"
+
+#: blocks/panchang/index.js:82
+msgid "Add your site key"
+msgstr "अपनी साइट कुंजी डालिए"
+
+#: blocks/panchang/index.js:83
+msgid "The panchang widget needs a free site key for this site, from astrotathya.com/panchang-widget. Until one is entered in Settings > Panchang, visitors see nothing here."
+msgstr "पंचांग विजेट के लिए इस साइट की मुफ़्त साइट कुंजी चाहिए, astrotathya.com/panchang-widget से। सेटिंग्स > पंचांग में कुंजी डालने तक आगंतुकों को यहाँ कुछ नहीं दिखेगा।"
+
+#: blocks/panchang/index.js:86
+msgid "Open Settings > Panchang"
+msgstr "सेटिंग्स > पंचांग खोलिए"
